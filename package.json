@@ -1,0 +1,16 @@
+{
+  "name": "data-science-backend",
+  "version": "1.0.0",
+  "description": "data-sciaence backend for the data lab project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Walid",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "simple-statistics": "^7.8.7"
+  }
+}
